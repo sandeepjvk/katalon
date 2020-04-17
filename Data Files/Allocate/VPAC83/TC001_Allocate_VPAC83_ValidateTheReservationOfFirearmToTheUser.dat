@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TC001_Allocate_VPAC83_ValidateTheReservationOfFirearmToTheUser</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>889e553b-7ca8-41ec-95f8-bcda2b74f5b9</dataFileGUID>
+   <dataSourceUrl>Data Files/Allocate/VPAC83/Allocate_VPAC83.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>TC001_Allocate_VPAC83</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

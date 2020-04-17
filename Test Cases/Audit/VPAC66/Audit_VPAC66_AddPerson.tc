@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Audit_VPAC66_AddPerson</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a09a48db-dab5-4286-9668-c34411d4049b</testCaseGuid>
+   <variable>
+      <defaultValue>'PS00007'</defaultValue>
+      <description></description>
+      <id>ffab4ca0-6ddb-4832-afbd-6b406aca610e</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password123'</defaultValue>
+      <description></description>
+      <id>47e234fc-189d-48b9-8adc-a4366657fc83</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'TestPerson'</defaultValue>
+      <description></description>
+      <id>b8820a6c-1d90-439b-91e1-240e0968f588</id>
+      <masked>false</masked>
+      <name>PersonName</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>182082cb-c3c3-44d1-bca2-883a68d094d8</id>
+      <masked>false</masked>
+      <name>PersonPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'Specialist Areas'</defaultValue>
+      <description></description>
+      <id>ea4e5871-5cb4-47d1-8b45-95c10bf06b64</id>
+      <masked>false</masked>
+      <name>OrganizationUnit</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TC003_Issue_VPAC44_ValidateIssuingANotAlreadyIssuedEquipmentItem</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>322e92f5-dfc7-46a6-8e8b-f171bfc6932c</dataFileGUID>
+   <dataSourceUrl>Data Files/Issue/VPAC44/Issue_VPAC44.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>TC003_Issue_VPAC44</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

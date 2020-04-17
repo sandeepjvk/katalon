@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_Audit_VPAC66_AddAuditJobParticipant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2991b3d3-9fee-4605-8471-e9d33e83293e</testCaseGuid>
+   <variable>
+      <defaultValue>'PS00007'</defaultValue>
+      <description></description>
+      <id>e2cbabc5-ad08-424f-b10c-dc8c8944dee8</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password123'</defaultValue>
+      <description></description>
+      <id>1e75bb4e-3103-4d59-8775-7db2453cd020</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'TestPerson'</defaultValue>
+      <description></description>
+      <id>04c413ff-d7bc-43c4-9750-8f92c38bb75d</id>
+      <masked>false</masked>
+      <name>PersonName</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>ab42e0a3-9244-4492-8535-70036650b0b2</id>
+      <masked>false</masked>
+      <name>PersonPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'Specialist Areas'</defaultValue>
+      <description></description>
+      <id>a16149ed-deeb-4ea2-a33b-ee80964090bd</id>
+      <masked>false</masked>
+      <name>OrganizationUnit</name>
+   </variable>
+   <variable>
+      <defaultValue>'Manage'</defaultValue>
+      <description></description>
+      <id>256fa587-36c8-421b-8f2b-177331c08b59</id>
+      <masked>false</masked>
+      <name>Capability</name>
+   </variable>
+   <variable>
+      <defaultValue>'test description'</defaultValue>
+      <description></description>
+      <id>0fb86a10-d5ee-4207-a3af-4133baa16cf3</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Audit_VPAC66_CreateAuditJob</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2876f78a-c846-4a5f-9c9d-527b90e00586</testCaseGuid>
+   <variable>
+      <defaultValue>'PS00007'</defaultValue>
+      <description></description>
+      <id>83b4cd82-ac69-41b2-be26-f3bcd706cbfa</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'password123'</defaultValue>
+      <description></description>
+      <id>1c6f66d0-0fa6-453f-8819-a3c1920c9703</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'test description'</defaultValue>
+      <description></description>
+      <id>6bcda75b-9cca-4f3f-8291-8d6225ab8aea</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Africa,Antarctica,Oceania,North America'</defaultValue>
+      <description></description>
+      <id>f17b3099-a7af-40ae-99b7-ab2e309b1512</id>
+      <masked>false</masked>
+      <name>Locations</name>
+   </variable>
+</TestCaseEntity>

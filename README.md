@@ -1,2 +1,0 @@
-# katalon
-katalon_hardcat

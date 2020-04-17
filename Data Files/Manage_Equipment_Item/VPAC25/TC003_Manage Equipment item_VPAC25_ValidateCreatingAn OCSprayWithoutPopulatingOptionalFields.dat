@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TC003_Manage Equipment item_VPAC25_ValidateCreatingAn OCSprayWithoutPopulatingOptionalFields</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>14e091e7-9d1f-43c8-ac31-6f4d27bf883d</dataFileGUID>
+   <dataSourceUrl>Data Files/Manage_Equipment_Item/VPAC25/Manage Equipment item_VPAC25.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>TC003_ManageEquipmentItemVPAC25</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

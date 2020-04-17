@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Transfer_VPAC88_ValidateIfAssetCouldBeTransferredToDifferentOrganizationUnit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db1419d7-d1a0-4890-bb86-03696cdf17af</testCaseGuid>
+   <variable>
+      <defaultValue>'ZENQ'</defaultValue>
+      <description></description>
+      <id>d7185a0d-486c-432d-9d76-69f37393cf7f</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Zen4477#'</defaultValue>
+      <description></description>
+      <id>e5c08bc0-1ed1-41dd-ba40-8a8883125839</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Regional and Road Policing'</defaultValue>
+      <description></description>
+      <id>7d49556f-7e9e-46fa-ae78-daff4d34dd13</id>
+      <masked>false</masked>
+      <name>Transfer_To_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'test description'</defaultValue>
+      <description></description>
+      <id>1f428805-6f81-4b6f-91ba-bb2eeca6cecc</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>318cd502-5be2-422a-a004-5c9bd5d9c4d9</id>
+      <masked>false</masked>
+      <name>NunberOfBarcodesToAdd</name>
+   </variable>
+   <variable>
+      <defaultValue>'Active'</defaultValue>
+      <description></description>
+      <id>e1c04491-1454-458a-8ebf-30439ce1b89f</id>
+      <masked>false</masked>
+      <name>ActiveStatus</name>
+   </variable>
+</TestCaseEntity>

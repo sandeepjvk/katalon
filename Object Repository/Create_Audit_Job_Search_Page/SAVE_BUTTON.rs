@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SAVE_BUTTON</name>
+   <tag></tag>
+   <elementGuidId>dd620d9e-182a-44cf-859c-d53bae45c484</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-id='saveAndClose']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>[data-id='saveAndClose']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

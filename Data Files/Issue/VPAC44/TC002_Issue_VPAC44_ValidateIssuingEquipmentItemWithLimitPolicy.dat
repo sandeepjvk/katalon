@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TC002_Issue_VPAC44_ValidateIssuingEquipmentItemWithLimitPolicy</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>9799c7cc-fb05-4076-975d-ea396dbcf0c2</dataFileGUID>
+   <dataSourceUrl>Data Files/Issue/VPAC44/Issue_VPAC44.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>TC002_Issue_VPAC44</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

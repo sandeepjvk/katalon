@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TC001_Transfer_VPAC87_ValidateActiveAndInactiveAssetsTransfer</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>e9760c8e-9dbe-49e6-88c2-b1df7ed74c07</dataFileGUID>
+   <dataSourceUrl>Data Files/Transfers/VPAC87/Transfer_VPAC87.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>TC001_Transfer_VPAC87</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

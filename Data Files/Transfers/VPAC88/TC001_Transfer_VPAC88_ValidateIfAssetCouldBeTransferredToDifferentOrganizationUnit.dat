@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TC001_Transfer_VPAC88_ValidateIfAssetCouldBeTransferredToDifferentOrganizationUnit</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>40dad52a-1364-4ec7-833f-60428c98f05c</dataFileGUID>
+   <dataSourceUrl>Data Files/Transfers/VPAC88/Transfer_VPAC88.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>TC001_Transfer_VPAC88</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
